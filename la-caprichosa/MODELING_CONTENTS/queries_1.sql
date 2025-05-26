@@ -1,0 +1,1 @@
+SELECT ID_Obra, ID_NumRevista, ID_Sección, Título_Sección, Título_Obra, Resumen_Obra from OBRAS

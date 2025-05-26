@@ -1,0 +1,389 @@
+ID_título,Title,ID_NumRevista,ID_Autor
+OB001,Al Sr. D. R. P. Enviándole mis obras,1,9.0
+OB002,La mujer piadosa (Fragmentos),1,10.0
+OB003,Desvarío,1,11.0
+OB004,"Soneto. ""¡Gloria y pobreza! El inmortal Quintana...""",1,12.0
+OB005,Balada. La despedida de una hija,1,13.0
+OB006,Un viaje a la Luna. Prólogo: La pesadilla de Mocquet,2,6.0
+OB007,En el álbum de la señora M…,2,9.0
+OB008,La primavera,2,14.0
+OB009,La perejilera,2,15.0
+OB010,Un viaje a la Luna. (Continuación),3,6.0
+OB011,Al señor Don B. M.,3,3.0
+OB012,A orillas del Manzanares. La súplica,3,4.0
+OB013,Un viaje a la Luna. (Continuación),4,6.0
+OB014,Fragmentos de la Rosa de Alejandra,4,9.0
+OB015,Gente morena,4,15.0
+OB016,Un viaje a la Luna. (Continuación),5,6.0
+OB017,"Al excmo. Sr. D. Agustín Esteban Collantes, en el día de su santo",5,4.0
+OB017bis,"A la niña Margarita Aurora de Wilson y Serrano, el día de su cumpleaños",5,4.0
+OB018,Costumbres del siglo XIX. I,7,16.0
+OB019,Margarita. Novela bretona,7,3.0
+OB020,Los escondidos y la tapada. Fragmentos,7,9.0
+OB021,A mi apreciable amiga la Señora doña M. Del Pilar Sinués de Marco en su álbum,7,3.0
+OB022,Costumbres del siglo XIX.II,8,16.0
+OB023,Margarita. Novela bretona. (Continuación),8,3.0
+OB024,A la niña Margarita Aurora de Wilson y Serrano,8,14.0
+OB025,A María,8,17.0
+OB026,A su Alteza Real el Príncipe de Asturias,9,3.0
+OB027,Margarita. Novela bretona. (Conclusión),9,3.0
+OB028,El otoño,9,14.0
+OB029,"Soneto. ""Aún eco tienen en el alma mía...""",9,18.0
+OB030,Atentado contra SS. MM. II.,10,3.0
+OB031,"""El matrimonio de la Princesa real de Inglaterra [...]""- ""Hace algunos años que un banquero muy rico [...]""-""Varios periódicos franceses y del extranjero [...]""",10,3.0
+OB032,A la Poesía. Oda,10,19.0
+OB033,A mi buen amigo el distinguido escritor don Alejandro Dumas en prueba de sincera amistad,10,3.0
+OB034,A la luna. Soneto,10,20.0
+OB035,Las apariencias engañan. Historia-cuento,11,3.0
+OB036,"""El viaje de SS. AA. [...]""-""El sábado a la una [...]""-""El príncipe Mirza-Ally-Kan-Bahadoor [...]""-""Habláse mucho en los círculos aristocrático de un matrimonio [...]""",11,3.0
+OB037,El invierno,11,14.0
+OB038,La hada azul,12,21.0
+OB039,"""El lunes 5 del corriente se ha inaugurado [...]""-""Vamos a contar una historia ocurrida en estos días de Pascua""-""Cuando Ismail, generalísimo del ejército otomano [...]""",12,3.0
+OB040,El navío Leviatán,12,8.0
+OB041,Ayes del corazón,12,10.0
+OB042,Carta de M. de Lamartine,13,22.0
+OB043,Introducción,13,5.0
+OB045,Isabel II,13,3.0
+OB046,Hamlet,13,23.0
+OB048,"""Lo que cada lector pide [...]""-La trata de blancas-De la decadencia de las costumbres-""La Malibran recibía en Londres [...]""-""El gobierno del Brasil [...]""",13,5.0
+OB049,"""Consignamos la acarta original qu enos ha dirigido M. de Lamartine [...]""",14,22.0
+OB050,Porvenir de la raza latina y de la Francia en el Nuevo-Mundo. Introducción,14,5.0
+OB052,Confederación Argentina y república del Uruguay-Le Paraguay,14,5.0
+OB053,S. M. La emperatriz de los franceses,14,3.0
+OB054,Cursos familiares de literatura. La pintura,14,22.0
+OB055,El perro de Zurbarán,14,24.0
+OB057,Serenatas. Introducción. (Fragmentos),14,9.0
+OB058,"Lo que viene a ser un periodista inglés-""Ha sucedido en los alrededores de Filadelfia [...]""-Máximas",14,5.0
+OB059,"Recuerdo. Un baile en el hotel de Ville, en 1859",15,25.0
+OB060,Abertura del Paraguay y de los ríos,15,5.0
+OB061,La Escma. Sra. Dª Gertrudis Gómez de Avellaneda,15,3.0
+OB063,El 20 de marzo,15,5.0
+OB064,Cursos familiares de literatura. Leopoldo Robert,15,22.0
+OB065,Leyenda pastoral,15,25.0
+OB066,La dalia,15,18.0
+OB067,"""Leemos en el Monitor  [...]""-""Según el 'Anuario diplomático de 1859' [...]""-""Hace algunas semanas que los diarios del Alto y del Bajo Rin [...]""-""He aquí la siguiente anécdota [...]""-""Un curioso ha dicho [...]""-""El matrimonio del hijo mayor [...]""-Savonnette a vilain",15,5.0
+OB068,Carta de Ramón de la Sagra,16,26.0
+OB069,Artículo I. Los Estados-Unidos y el Paraguay,16,5.0
+OB070,Costumbres andaluzas. Los dos marineros,16,25.0
+OB071,Viaje por un vestido de boda,16,3.0
+OB072,SS. AA. II el príncipe y la princesa Napoleón,16,3.0
+OB073,El miércoles de ceniza,16,27.0
+OB074,Cursos familiares de literatura. Leopoldo Robert. (Conclusión),16,22.0
+OB075,"""Pues que en nuestros días se hacen tantos adelantos en la fotografía [...]""-""Acaba de llegar de San Petesburgo [...]""-""El Entreacto publica un acarta fechada en Génova [...]""",16,5.0
+OB076,Memorándum especial por la guerra de Italia,17,5.0
+OB077,Introducción,17,25.0
+OB078,Pbro. D. Félix Varela,17,28.0
+OB079,Las flores de mayo,17,23.0
+OB081,A la catedral de Bron,17,3.0
+OB082,,17,25.0
+OB083,Viaje al rededpr de un vestido de boda. (Conclusiones),17,3.0
+OB084,Artículo II. Los Estados-Unidos y el Paraguay,17,5.0
+OB085,Una de tantas,17,4.0
+OB086,"""Para que se vea cómo los principales intereses y amortización de la Deuda pública [...]""",17,5.0
+OB088,Carta de M. Alejandro Dumas,18,6.0
+OB089,Carta del Sr. Guillemot,18,5.0
+OB090,Napoleón III,18,5.0
+OB091,Víctor Manuel II,18,5.0
+OB092,El oso,18,25.0
+OB093,Poesía. A mi amigo Mariano G. Manrique,18,25.0
+OB097,Perfil inglés,18,29.0
+OB101,La ostra,19,25.0
+OB102,Poesía. A Napoleón III,19,25.0
+OB103,A una tumba en el cementerio de Montmartre. (Fragmento),19,3.0
+OB104,Consideraciones sobre los vestidos,19,30.0
+OB106,Gran batalla de Solferino,19,5.0
+OB107,Memorándum especial por la guerra de Italia,20,5.0
+OB108,Batalla de Solferino. El emperador a la emperatriz,20,31.0
+OB109,Ejército de Italia. Proclama,20,31.0
+OB111,La entrevista de Villafranca. Nuevos detalles,20,31.0
+OB112,"El mariscal Vaillant, mayor general del ejército de Italia",20,5.0
+OB113,Poesía. Costumbres andaluzas. Un baile de candil,20,25.0
+OB114,A S. M. el emperador Napoleón III (Fragmentos),20,3.0
+OB115,Mi fotografía,20,4.0
+OB116,El festín de Baltasar. Estudio bíblico,20,25.0
+OB117,Quién es el...,20,3.0
+OB119,"""La primera quincena del mes de agosto [… ]""",21,5.0
+OB120,El general Garibaldi,21,3.0
+OB121,En sus días,21,3.0
+OB122,A la Señora Doña Emilia Serrano de Wilson en débil muestra de aprecio,21,32.0
+OB124,Offland,21,65.0
+OB127,La señorita doña María Verdejo y Durán,22,14.0
+OB128,Una cifra en un ciprés,22,33.0
+OB130,María Leczinska,22,21.0
+OB131,Composición de la ópera Otello por Rossini,22,34.0
+OB132,El robo del niño de la señora Hua,22,3.0
+OB133,La señora doña Carolina Coronado,23,3.0
+OB134,La granadina. Marcha guerrera,23,3.0
+OB135,El genio,23,8.0
+OB136,María Leczinska,23,21.0
+OB137,El coro de los ángeles,23,35.0
+OB138,El kaleidescopio,25,3.0
+OB139,El duelo de las mujeres,25,36.0
+OB140,Los secretos de la hermosura,25,3.0
+OB141,A la niña Adelaida. En su día,26,37.0
+OB142,Esther,26,38.0
+OB143,Origen de algunos instrumentos. La guitarra,26,39.0
+OB144,Tetuán,26,3.0
+OB145,El duelo de las mujeres. (Continuación.),26,36.0
+OB146,Secretos de la hermosura. (Continuación),26,3.0
+OB148,L a vuelta de la golondrina. (Fragmentos),27,3.0
+OB149,El duelo de las mujeres. (Continuación.),27,36.0
+OB150,Secretos de la hermosura. (Continuación),27,3.0
+OB152,El sauce,28,40.0
+OB153,Balada,28,40.0
+OB154,El duelo de las mujeres. (Continuación.),28,36.0
+OB155,La hermana de Velázquez,28,14.0
+OB156,La cuaresma del amor,28,41.0
+OB158,Lo mejor de una niña,29,15.0
+OB160,El duelo de las mujeres. (Continuación.),29,36.0
+OB161,El museo viviente: colección de cuadros sociales. Cuadro primero: doña Eulogia,29,42.0
+OB162,La hermana de Velázquez,29,14.0
+OB163,La oliva. A la paz entre España y Marruecos,30,40.0
+OB164,Descripción del teatro de D. José Piquer,30,3.0
+OB165,El duelo de las mujeres. (Continuación.),30,36.0
+OB166,La hermana de Velázquez,30,14.0
+OB167,El ángel de la inclusa,30,43.0
+OB168,Los espejos mágicos. Cuento fantástico,31,44.0
+OB169,Cartas de Cuba. Cojimar,31,45.0
+OB170,"""Días pasados se hallaba en el bosque [...]""- ""La ópera de Verdi [...]""-""El marqués de Casa-Riera [...]""-""No podemos resistir el deseo de copiar [...]""",31,3.0
+OB171,La  cama de matrimonio. Balada,32,46.0
+OB172,Las dos tumbas. Dolora,32,47.0
+OB173,A Colón,32,3.0
+OB174,Una madre,32,8.0
+OB175,Un baile de manga larga,32,41.0
+OB176,La heredad bendecida,32,3.0
+OB177,Esto y aquello,32,40.0
+OB178,Macahé,32,3.0
+OB180,A Emilia. En su álbum,33,14.0
+OB181,La ascensión del Señor,33,3.0
+OB182,Una madre,33,8.0
+OB183,Cartas de Cuba. El conuco del indio,33,45.0
+OB184,Amor y fe,33,48.0
+OB185,Las dos rosas,33,3.0
+OB187,Griseldina,33,49.0
+OB188,A mi sobrina Araceli Abril de Armendi,34,50.0
+OB189,El mensage,34,51.0
+OB190,Griseldina,34,49.0
+OB191,Cartas de Cuba. El conuco del indio,34,45.0
+OB192,Una caricia puede curar un defecto,34,52.0
+OB193,Sin princpio ni fin.,34,48.0
+OB194,La felicidad,34,14.0
+OB195,En el álbum de una niña,35,12.0
+OB196,El arte. Oda,35,3.0
+OB197,A una dama muy galanteada. En su álbum,35,53.0
+OB198,Sin princpio ni fin. Novela de costumbres contemporáneas,35,48.0
+OB199,La felicidad,35,14.0
+OB201,Periquito el Veleidoso,35,3.0
+OB202,Cartas de Cuba (III). El conuco del indio,35,45.0
+OB203,A Santo Domingo,36,3.0
+OB204,El toque de la oración,36,15.0
+OB205,Soledad,36,45.0
+OB206,Sin princpio ni fin. Novela de costumbres contemporáneas,36,48.0
+OB207,Los bailes campestres en Santander,36,52.0
+OB208,Periquito el Veleidoso (Conclusion),36,3.0
+OB209,Duelos de amor,36,43.0
+OB210,"""Allende los mares mora [...]""",37,50.0
+OB211,A la señora doña Emila Serrano de Wilson en su álbum,37,44.0
+OB212,En el álbum de la señorita J. R.,37,53.0
+OB213,Carta,37,41.0
+OB214,Cada cual en su lugar,37,3.0
+OB215,Duelos de amor (Conclusión.),37,43.0
+OB216,Rolandseck. Tradición,37,3.0
+OB217,Secretos del tocador,37,3.0
+OB218,La madre de la marquesa,38,54.0
+OB219,Poesía,38,52.0
+OB220,Ilusión. A el...,38,3.0
+OB221,La violeta. Soneto,38,44.0
+OB222,La verdad del sentimiento,38,40.0
+OB223,De la poesía. Su oportunidad y su objeto,38,55.0
+OB224,Cada cual en su lugar (Conclusión.),38,3.0
+OB225,Viaje de SS. MM.,38,52.0
+OB226,Mariquita,38,3.0
+OB227,"""Entre las aventuras numerosas [...]""-""Cuando el general Bonaparte [...]""-""Es notable lo siguiente [...]""",38,3.0
+OB228,La madre de la marquesa (Continuación),39,54.0
+OB229,El sargento Pérez. Episodio de dominación francesa en Santo Domingo,39,3.0
+OB230,Sin princpio ni fin. Novela de costumbres contemporáneas,39,48.0
+OB231,Los pájaros,39,3.0
+OB232,Una flor,39,45.0
+OB233,La moneda de oro,39,3.0
+OB234,"Matrimonios por anuncios-Los baños de Biarritz-""Hace pocos días [...]""",39,3.0
+OB235,La madre de la marquesa (Continuación),40,54.0
+OB236,A Sevilla,40,44.0
+OB237,"Soneto. ""Un año más [...]""",40,56.0
+OB238,Carta I. Monserrat,40,14.0
+OB239,La moneda de oro,40,3.0
+OB240,Un paseo por el lago negro,40,3.0
+OB241,La feria de Ucles,40,43.0
+OB242,La madre de la marquesa (Continuación),41,54.0
+OB243,Fábula. El cabello suelto,41,46.0
+OB244,Carta II. Valencia,41,14.0
+OB245,La feria de Ucles,41,43.0
+OB246,De la poesía. Su oportunidad y su objeto,41,55.0
+OB247,La moneda de oro,41,3.0
+OB248,"""Una duquesa octogenaria [...]""-""La señora de J [...]""-""El señor X [...]""-""Una aldeana enriquecida [...]""",41,3.0
+OB250,La escalera,42,40.0
+OB251,Carta III. Barcelona,42,14.0
+OB252,La moneda de oro (Conclusión),42,3.0
+OB044,El Brasil,13,57.0
+OB047,El alma de dudas,13,58.0
+OB051,El istmo de Panamá,14,59.0
+OB056,Una peregrinación a Saint-Point,14,60.0
+OB062,Sin destinos no hay amigos. Proverbio en tres cuadros,15,61.0
+OB105,El sombrero del emperador de Austria,19,64.0
+OB147,El amor,26,69.0
+OB200,Feria en Sevilla,35,72.0
+OB080,,17,
+OB087,El lentigo. De su tratamiento,17,
+OB094,En la primera página de un álbum,18,63.0
+OB095,El mundo para unos. Soneto,18,63.0
+OB096,El mundo para otros. Soneto,18,63.0
+OB098,Última hora,18,
+OB099,Francisco José. Emperador del Austria,19,
+OB100,"""Constituido ya oficialmente el nuevo Ministerio Inglés"" [...]",19,
+OB110,Parte oficial publicado por el Monitor de París sobre la atalla de Solferino,20,
+OB118,"Censo aproximativo-""En un periódico se lee lo siguiente [...]""-Invento-Histórico",20,
+OB123,Al señor de N. y la señora ***,21,67.0
+OB125,El fauno de Goysevox,21,66.0
+OB126,El prólogo. Episodio,21,
+OB129,El collar,22,68.0
+OB151,El cabello rubio,27,70.0
+OB157,La esposa del sol,28,
+OB159,"Inauguración del teatro de D. José Piquer-Oda ""Alzad vuestras tumbas [...]""",29,3.0
+OB179,Estudios sobre los primeros tiempos de la Rusia,32,
+OB186,Estudios sobre los primeros tiempos de la Rusia. (Conclusión.),33,
+OB249,A Safo,42,
+OB253,Abnegación,42,
+P001,Sombreros de Alexandrine,3,
+P002,Sombreros d'Alexandrine,4,
+P003,Sombreros De Alexandrine,5,
+P004,Sombreros De Alexandrine,7,
+P005,Sombreros d'Alexandrine,9,
+P006,Sombreros d'Alexandrine,10,
+P007,Sombreros d'Alexandrine,11,
+P008,"""En la perfumería de Planchais [...]""",11,
+P009,"""Recomendamos a nuestros lectores los pianos [...]""",11,
+P010,"""Casa de comisión para París [...]""",11,
+P011,"""Las enfermedades del pecho [...]""",11,
+P012,"""Prevenimos a nuestros lectores [...]""",12,
+P013,Sombreros d'Alexandrine y Corsets Plastiques Mme. Bonvallet,12,
+P014,"""Se alquila una lindísima habitación [...]""",12,
+P015,Casas recomendadas y artículos en voga,13,
+P016,"Corsets plastiques de Bonvallet, Guantes, abanicos y parfumes de Faguer Labollée, Joyas de cabellos Lemnnier, Porcelaines et Cristaux Maison de l'Escalier de Cristal",13,
+P017,Casas recomendadas,14,
+P018,"Cintas y pasamanerías de la fábrica Sorré Dehsle, Corsets plastiques de Bonvallet, Guantes, abanicos y parfumes de Faguer Labollée, Joyas de cabellos Lemnnier, Porcelaines et Cristaux Maison de l'Escalier de Cristal",14,
+P019,Lait antephelique. Pecas y manchas de la cara,14,
+P020,"Camisas Claudio, Hermanos",14,
+P021,Tintura inglesa instantánea,14,
+P022,Casa particular de Huéspedes,14,
+P023,Casa Delacroix,14,
+P024,"Jules Bloch, dentista",14,
+P025,La Gaceta de Bellas Artes,15,
+P026,Pecas y manchas de la cara,15,
+P027,Casas recomendadas,15,
+P028,Porta-monedas Despierres,15,
+P029,Tarifs des insertions,15,
+P030,"Cintas y pasamanerías de la fábrica Sorré Dehsle, Corsets plastiques de Bonvallet, Guantes, abanicos y parfumes de Faguer Labollée, Joyas de cabellos Lemnnier, Porcelaines et Cristaux Maison de l'Escalier de Cristal",15,
+P031,"Camisas Claudio, Hermanos",15,
+P032,Nueva Geografía Sangansan,15,
+P033,Casa particular de Huéspedes,15,
+P034,Casa Delacroix,15,
+P035,"Jules Bloch, dentista",15,
+P036,Platería Cristofle,15,
+P037,Casas recomendadas,16,
+P038,Tarifs des insertions,16,
+P039,"Cintas y pasamanerías de la fábrica Sorré Dehsle, Corsets plastiques de Bonvallet, Guantes, abanicos y parfumes de Faguer Labollée, Joyas de cabellos Lemnnier, Porcelaines et Cristaux Maison de l'Escalier de Cristal",16,
+P040,"Camisas Claudio, Hermanos",16,
+P041,Nueva Geografía Sangansan,16,
+P042,Casa particular de Huéspedes,16,
+P043,Casa Delacroix,16,
+P044,"Jules Bloch, dentista",16,
+P045,Platería Cristofle,16,
+P046,Casas recomendadas,17,
+P047,Tarifs des insertions,17,
+P048,"Camisas Claudio, Hermanos",17,
+P049,Nueva Geografía Sangansan,17,
+P050,Casa particular de Huéspedes,17,
+P051,Casa Delacroix,17,
+P052,"Jules Bloch, dentista",17,
+P053,Platería Cristofle,17,
+P054,Casas recomendadas,18,
+P055,Tarifs des insertions,18,
+P056,"Camisas Claudio, Hermanos",18,
+P057,Nueva Geografía Sangansan,18,
+P058,Casa particular de Huéspedes,18,
+P059,Casa Delacroix,18,
+P060,"Jules Bloch, dentista",18,
+P061,Platería Cristofle,18,
+P062,Casas recomendadas,19,
+P063,Platería Cristofle,19,
+P064,"Camisas Claudio, Hermanos",19,
+P065,Nueva Geografía Sangansan,19,
+P066,Casa particular de Huéspedes,19,
+P067,Casa Delacroix,19,
+P068,"Jules Bloch, dentista",19,
+P069,Casas recomendadas,20,
+P070,"Cintas y pasamanerías de la fábrica Sorré Dehsle, Corsets plastiques de Bonvallet, Guantes, abanicos y parfumes de Faguer Labollée, Joyas de cabellos Lemnnier, Porcelaines et Cristaux Maison de l'Escalier de Cristal",20,
+P071,"Camisas Claudio, Hermanos",20,
+P072,Nueva Geografía Sangansan,20,
+P073,Casa particular de Huéspedes,20,
+P074,Casa Delacroix,20,
+P075,"Jules Bloch, dentista",20,
+P076,Platería Cristofle,20,
+P079,"Camisas Claudio, Hermanos",21,
+P080,Nueva Geografía Sangansan,21,
+P081,Casa particular de Huéspedes,21,
+P082,Casa Delacroix,21,
+P083,"Jules Bloch, dentista",21,
+P084,Platería Cristofle,21,
+P085,Casas recomendadas,22,
+P086,"Cintas y pasamanerías de la fábrica Sorré Dehsle, Corsets plastiques de Bonvallet, Guantes, abanicos y parfumes de Faguer Labollée, Joyas de cabellos Lemnnier, Porcelaines et Cristaux Maison de l'Escalier de Cristal",22,
+P087,"Camisas Claudio, Hermanos",22,
+P088,Nueva Geografía Sangansan,22,
+P089,Casa particular de Huéspedes,22,
+P090,Casa Delacroix,22,
+P091,"Jules Bloch, dentista",22,
+P092,Platería Cristofle,22,
+P093,"Cintas y pasamanerías de la fábrica Sorré Dehsle, Corsets plastiques de Bonvallet, Guantes, abanicos y parfumes de Faguer Labollée, Joyas de cabellos Lemnnier, Porcelaines et Cristaux Maison de l'Escalier de Cristal",23,
+P094,Platería Cristofle,23,
+P096,Obras de la señora doña Emilia Serrano de Wilson,25,
+P097,Platería Cristofle,25,
+P098,Obras de la señora doña Emilia Serrano de Wilson,26,
+P099,Platería Cristofle,26,
+P100,Obras de la señora doña Emilia Serrano de Wilson,27,
+P101,Modes de Paris. Petit Courrier des Dames,28,
+P102,El Eco Hispano-Americano,28,
+P103,Obras de la señora doña Emilia Serrano de Wilson,29,
+P104,El Eco Hispano-Americano,29,
+P105,Anuncio,40,
+P106,Obras de la señora doña Emilia Serrano de Wilson,42,
+C001,,1,
+C002,,2,
+C003,Explicación de la lámina de tapicería,4,
+C004,Explicación de la lámina de tapicería,5,
+C005,Explicación del figurín,8,
+C006,Moda de Caballeros,10,
+C007,,17,
+C008,,19,
+C009,Explicación del figurín 1º,26,
+C010,Explicación del figurín 2º,26,
+C011,,26,
+C012,Descripción del figurín: primer y segundo traje,27,
+C013,Descripción del figurín: traje de la novia y de la madre,27,
+C014,,28,
+C015,Explicación del figurín,29,
+C016,,29,
+C017,,30,
+C018,,31,
+C019,Descripción del figurín de baile,32,
+C020,Figurín de visita,32,
+C021,Explicación del figurín,33,
+C022,,34,
+C023,Explicación del figurín,34,
+C024,Explicación del figurín,35,
+C025,Explicación del figurín,36,
+C026,Explicación del figurín,37,
+C027,,38,
+C028,,39,
+C029,Explicación del figurín,40,
+C030,Explicación de los figurines. Primero,41,
+C031,Explicación de los figurines. Segundo,41,

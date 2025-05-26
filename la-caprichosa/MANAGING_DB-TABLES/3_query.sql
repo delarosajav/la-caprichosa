@@ -1,0 +1,1 @@
+SELECT ID_Persona, nombre_completo, género FROM PERSONAS

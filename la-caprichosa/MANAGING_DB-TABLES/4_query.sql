@@ -1,0 +1,1 @@
+SELECT ID_NumRevista, Id_Revista, ID_Director, ID_Editor FROM NUMEROS_REVISTA

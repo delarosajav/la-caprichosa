@@ -1,0 +1,1 @@
+SELECT ID_Complemento, Título_Complemento, ID_NumRevista from COMPLEMENTOS

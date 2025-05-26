@@ -1,0 +1,1 @@
+SELECT ID_Obra, Título_Obra, ID_NumRevista, ID_Autor, Nombre_firma from OBRAS
