@@ -14,6 +14,12 @@ A thorough textual data cleaning process was conducted using advanced regular ex
 
 This stage enabled the automatic generation of coherent, reusable semantic categories, serving as the foundation for further philological and statistical analysis.
 
+[NLP code](screenshots/11.png)
+[NLP code 2](screenshots/12.png)
+[NLP code 3](screenshots/13.png)
+[NLP code 4](screenshots/14.png)
+[NLP code 5](screenshots/15.png)
+
 ### 2. Relational Modeling and SQL Database Integration
 
 With the categories and metadata in place, I designed and created new relational tables, enriching and expanding the existing SQLite database.
@@ -21,6 +27,13 @@ With the categories and metadata in place, I designed and created new relational
 I developed complex relationships between new categories, their frequencies, original titles, authors, genres, and editorial stages through customized, optimized SQL queries.
 
 The result was a robust, functional, structured, and scalable data model, usable both by backend logic and client-side queries.
+
+[SQL1](screenshots/16.png)
+[SQL2](screenshots/19.png)
+[SQL3](screenshots/20.png)
+[SQL4](screenshots/21.png)
+[SQL5](screenshots/22.png)
+[SQL6](screenshots/23.png)
 
 ### 3. Backend Programming with Node.js (JavaScript)
 
@@ -30,6 +43,9 @@ Each endpoint was configured to handle dynamic parameters, apply filters, perfor
 
 I also developed asynchronous and efficient functions to manage complex responses, ensuring the consistency, scalability, and traceability of the full backend system.
 
+[JS](screenshots/0001.png)
+[JS2](screenshots/0002.png)
+
 ### 4. Interactive Frontend Development with HTML, CSS, JavaScript (D3.js & VanillaJS)
 
 I designed and implemented a fully custom dynamic interface using D3.js to visualize categories and authors via expandable and clickable word clouds.
@@ -37,6 +53,16 @@ I designed and implemented a fully custom dynamic interface using D3.js to visua
 Features included zoom, animations, contextual modals, keyword search, and cross-filtering via metadata.
 
 This interactive visualization allows researchers to explore the magazine corpus in an intuitive and analytically rich manner, accessing titles, authors, and contextual data through simple, efficient user interactions.
+
+
+[web](screenshots/0003.png)
+[web2](screenshots/0004.png)
+[web3](screenshots/0005.png)
+[web4](screenshots/0006.png)
+[web5](screenshots/0007.png)
+[web6](screenshots/0008.png)
+[web7](screenshots/0009.png)
+[web8](screenshots/00010.png)
 
 ### 5. Autonomy and Technical Responsibility
 
