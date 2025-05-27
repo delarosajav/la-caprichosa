@@ -28,12 +28,12 @@ I developed complex relationships between new categories, their frequencies, ori
 
 The result was a robust, functional, structured, and scalable data model, usable both by backend logic and client-side queries.
 
-[SQL1](screenshots/16.png)
-[SQL2](screenshots/19.png)
-[SQL3](screenshots/20.png)
-[SQL4](screenshots/21.png)
-[SQL5](screenshots/22.png)
-[SQL6](screenshots/23.png)
+![SQL1](screenshots/16.png)
+![SQL2](screenshots/19.png)
+![SQL3](screenshots/20.png)
+![SQL4](screenshots/21.png)
+![SQL5](screenshots/22.png)
+![SQL6](screenshots/23.png)
 
 ### 3. Backend Programming with Node.js (JavaScript)
 
@@ -43,8 +43,8 @@ Each endpoint was configured to handle dynamic parameters, apply filters, perfor
 
 I also developed asynchronous and efficient functions to manage complex responses, ensuring the consistency, scalability, and traceability of the full backend system.
 
-[JS](screenshots/0001.png)
-[JS2](screenshots/0002.png)
+![JS](screenshots/0001.png)
+![JS2](screenshots/0002.png)
 
 ### 4. Interactive Frontend Development with HTML, CSS, JavaScript (D3.js & VanillaJS)
 
@@ -55,14 +55,14 @@ Features included zoom, animations, contextual modals, keyword search, and cross
 This interactive visualization allows researchers to explore the magazine corpus in an intuitive and analytically rich manner, accessing titles, authors, and contextual data through simple, efficient user interactions.
 
 
-[web](screenshots/0003.png)
-[web2](screenshots/0004.png)
-[web3](screenshots/0005.png)
-[web4](screenshots/0006.png)
-[web5](screenshots/0007.png)
-[web6](screenshots/0008.png)
-[web7](screenshots/0009.png)
-[web8](screenshots/00010.png)
+![web](screenshots/0003.png)
+![web2](screenshots/0004.png)
+![web3](screenshots/0005.png)
+![web4](screenshots/0006.png)
+![web5](screenshots/0007.png)
+![web6](screenshots/0008.png)
+![web7](screenshots/0009.png)
+![web8](screenshots/00010.png)
 
 ### 5. Autonomy and Technical Responsibility
 
