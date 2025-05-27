@@ -14,11 +14,11 @@ A thorough textual data cleaning process was conducted using advanced regular ex
 
 This stage enabled the automatic generation of coherent, reusable semantic categories, serving as the foundation for further philological and statistical analysis.
 
-[NLP code](screenshots/11.png)
-[NLP code 2](screenshots/12.png)
-[NLP code 3](screenshots/13.png)
-[NLP code 4](screenshots/14.png)
-[NLP code 5](screenshots/15.png)
+![NLP code](screenshots/11.png)
+![NLP code 2](screenshots/12.png)
+![NLP code 3](screenshots/13.png)
+![NLP code 4](screenshots/14.png)
+![NLP code 5](screenshots/15.png)
 
 ### 2. Relational Modeling and SQL Database Integration
 
