@@ -1,1 +1,0 @@
-SELECT ID_Complemento, ID_NumRevista, Tipo_Complemento, Título_Complemento, Tema_Complemento from COMPLEMENTOS

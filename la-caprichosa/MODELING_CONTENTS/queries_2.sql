@@ -1,1 +1,0 @@
-SELECT ID_SecciónPublicada, ID_Sección, ID_NumRevista, Título_Sección from SECCIONES_PUBLICADAS
